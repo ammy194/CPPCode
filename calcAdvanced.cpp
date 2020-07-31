@@ -16,7 +16,7 @@ int main ()
     int quotient = x / y ; "\n" ;
 
 
-    cout <<  "       The Sum Is  =        " ;   "\n"; 
+    cout <<  " The Sum Is  =        " ;   "\n"; 
     cout << sum ; "\n";
     
     cout <<  "       The Difference Is  =      ";   "\n";
