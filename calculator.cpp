@@ -8,7 +8,7 @@ int sum(int, int);
 cout << "Enter Your First Number   ";
 cin>> x;
 
-cout << "Enter Your Second Number   ";
+cout << "Please Enter Your Second Number   ";
 cin >> y;
 
 cout << "Your Sum Is   :";
