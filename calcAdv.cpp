@@ -18,7 +18,7 @@ int main ()
 
     cout <<  " The Sum Is  =   " ;   "\n"; 
     cout << sum ; "\n";
-    cout << "Thanks"
+    cout << "Thanks";
     
     cout <<  "       The Difference Is  =      ";   "\n";
     cout << diff ; "\n";
