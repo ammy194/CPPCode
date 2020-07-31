@@ -7,7 +7,7 @@
 int main()
 {
     std::cout << "Hello Amartya" << std::endl;
-    printf("ssss");
+    printf("Papa hello");
     
     return 0;
 }
